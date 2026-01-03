@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Data Pillar AI Tutor",
+  "description": "A sophisticated voice-first teaching assistant specializing in 'Data as the Fourth Pillar' ebook, featuring RAG-enhanced reasoning and real-time conversation.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
